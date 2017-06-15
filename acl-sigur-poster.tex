@@ -1,0 +1,125 @@
+% Originally copied from Overleaf templates:
+% https://www.overleaf.com/latex/examples/overleaf-campus-challenge-2016-poster/wywxgwqgtycw
+
+\documentclass[12pt,a0paper]{article}
+
+
+\linespread{1.6}
+\title{Association of Computational Linguistics:\\
+Special Interest Group for Uralic languages}
+
+\usepackage[BABEL]{babel}
+\usepackage[TRANSLATOR]{translator}
+
+\usedictionary{acl-sigur-poster}
+
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+
+
+\usepackage[margin=4cm,a0paper]{geometry}
+\usepackage{multicol}
+\usepackage{ragged2e}
+\usepackage{tabularx}
+\usepackage[table]{xcolor}
+\usepackage{graphicx}
+\usepackage{multirow}
+
+\definecolor{ACLRed}{HTML}{FF0000}
+\graphicspath{{images/}}
+\pagestyle{empty}
+\RaggedRight
+\parskip=12pt plus 4pt
+
+\setmainfont[Scale=0.8]{DejaVu Sans}
+\setsansfont[Scale=0.7]{DejaVu Sans}
+
+\begin{document}
+
+\begin{center}
+
+\begin{tabular}{lcl}
+\multirow{3}{*}{\includegraphics[width=.15\linewidth]{acl-logo}} & ~~~~ &
+    \fontsize{96pt}{92pt}\bfseries\selectfont\color{ACLRed}\translate{Poster
+    Title ACL} \\
+ &~~~~ &
+    \fontsize{96pt}{92pt}\bfseries\selectfont\color{ACLRed}\translate{Poster
+    Title SIG} \\
+ &~~~~ & \fontsize{74pt}{62pt}\bfseries\selectfont http://acl-sigur.github.io \\
+\end{tabular}
+
+\end{center}
+
+\vspace{5cm}
+
+\setlength{\columnsep}{40pt}
+\begin{multicols}{2}
+
+\fontsize{74pt}{62pt}\selectfont
+
+{\fontsize{74pt}{62pt}%
+\translate{Join Call}%
+\par}
+
+\includegraphics[width=\linewidth]{uralic-mappe}
+
+\columnbreak
+
+
+\setlength{\leftskip}{40pt}
+
+\vspace{10cm}
+
+% \vskip -\baselineskip
+{\fontsize{74pt}{62pt}
+\translate{What Is It}\par
+
+\translate{What Is A SIG}\par
+}
+
+\end{multicols}
+
+\vspace{45pt}
+
+\vskip -\baselineskip
+
+\hskip -1.1cm%
+\renewcommand{\arraystretch}{1.8}%
+\begin{tabularx}{\paperwidth}{%
+   @{} p{1.5cm} @{}
+   *4{>{\centering\arraybackslash\fontsize{74pt}{62pt}\bfseries}X @{}}
+   p{1.5cm} @{}
+}
+\rowcolor{gray!30}
+\rule{0pt}{2.2cm} &
+\includegraphics[height=6.8cm]{green_light_bulb} &
+\includegraphics[height=6.8cm]{projector_screen} &
+\includegraphics[height=6.8cm]{Globe_Mouse} &
+\includegraphics[height=6.8cm]{pencil-308509} & \\[0.5cm]
+\fontsize{74pt}{62pt}\selectfont
+& \fontsize{74pt}{62pt}\translate{create} &
+    \fontsize{74pt}{62pt}\translate{present} &
+    \fontsize{74pt}{62pt}\translate{publish} &
+    \fontsize{74pt}{62pt}\translate{teach} &\\
+\end{tabularx}
+
+\vspace{45pt}
+
+\fontsize{74pt}{62pt}\selectfont
+
+
+{\fontsize{74pt}{62pt}
+\translate{How To Join}\par
+
+\translate{Overleaf Workflow}\par
+
+\translate{Faculty}\par
+}
+
+\vfill
+
+\includegraphics[width=4cm]{acl-logo}
+\hfill
+{\fontsize{96pt}{92pt}\bfseries\itshape\color{ACLRed} https://acl-sigur.github.io}
+\end{document}

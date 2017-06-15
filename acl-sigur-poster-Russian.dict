@@ -1,0 +1,63 @@
+\providetranslation
+{Poster Title}
+{Association of Computational Linguistics: Special Interest Group for Uralic languages\\
+{\small Ассоциация по компьютерной лингвистике: Спецгруппа для уралских языков}}
+
+\providetranslation
+{Join Call}
+{ACL SIG \textbf{\textcolor{ACLRed}{дон босьттӧг}} йитӧ \textbf{урал кыв} туялысьясӧс, кодъяс уджалӧны Мусяр пасьтала!}
+
+\providetranslation
+{What Is It}
+{\textbf{Мый сійӧ ACL?} Тайӧ кыв туялан профессиональнӧй йӧзкостса котыр, коді ӧтувтӧ компьютернӧй лингвистикаын да ловъя (естественнӧй) кыв обработайтан ныризьын уджалысь учёнӧйясӧс.
+}
+
+\providetranslation
+{What Is A SIG}
+{\textbf{Мый сійӧ SIG?} SIG — ACL пытшкын торъя мога котыр. Сійӧ тӧдмӧдӧ выль петасъясӧн да чукӧртчӧмъясӧн.
+% a group that encourages interest and activity in a specific area of the ACL's field, including linking with related areas by such means as workshops, newsletters, etc.
+}
+
+\providetranslation
+{create}
+{\fontsize{76pt}{64pt}Мастер классъяс}
+
+\providetranslation
+{present}
+{Туториальяс}
+
+\providetranslation
+{publish}
+{Петасъяс}
+% Тайӧ вежӧртас книгаяс да мыйкӧяс
+
+\providetranslation
+{teach}
+{Ресурсъяс}
+
+\providetranslation
+{What Is It}
+{\textbf{Что это ACL?} An international professional society dedicated to research throughout the field of natural language processing and computational linguistics.}
+
+\providetranslation
+{How To Join}
+{\textbf{Кыдзи йитчыны?} 
+Зэв кокниа да мынтысьтӧг! 
+Сӧмын колӧ содтыны колана информация Гугл формаӧ (Гуглын мынтысьны оз ков) миян сайтӧ.
+Верман пырны миян эмайл-лист бок вылӧ да пасйысьны пырысьӧн.
+}
+
+\providetranslation
+{Overleaf Workflow}
+{\textbf{Чукӧртчӧмъяссӧ} лӧсьӧдӧмаӧсь сы могысь, медым юксьыны туялан кывкӧртӧдъясӧн, сёрнитны да вӧчны ӧтув наука удж. 
+Ӧнія кадӧ котыртам быдвося чукӧртчӧмъяс да налысь петасъяссӧ лэдзам \textbf{Open Access} пыр.
+%are organised for dissemination of research, discussions and co-operation.
+%Currently we organise a scientific workshop annually, with proceedings published in \textbf{Open Access} repositories.
+}
+
+\providetranslation
+{Faculty}
+{\textbf{Ресурсъяс да отсӧг!}
+Ми век корсям миян сайт вылӧ выль наука шедӧдӧмторъяс, практикаяс, ресурсъяс йылысь юӧр, медым туялысьяслӧн вӧлі бур позянлун наӧн вӧдитчыны асланыс уджын.
+% We are constantly gathering our list of best common practices and best freely available resources on our website to avoid duplication of work and enable language technology contributors to get the best out of their scarce resources.
+}
