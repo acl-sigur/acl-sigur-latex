@@ -36,8 +36,8 @@
 
 \providetranslation
 {How To Join}
-{\textbf{How do I sign up?} 
-It's easy and free! 
+{\textbf{How do I sign up?}
+It's easy and free!
 You only need to fill in one Google form (no Google account required) on our web-site.
 You can opt-in to a low-volume mailing list and for a spot in the member registry.
 }
@@ -51,3 +51,8 @@ Currently we organise a scientific workshop annually, with proceedings published
 \providetranslation
 {Faculty}
 {\textbf{Resources and Advice!} We are constantly gathering our list of best common practices and best freely available resources on our website to avoid duplication of work and enable language technology contributors to get the best out of their scarce resources.}
+
+\providetranslation
+{Join now}
+{\textbf{Join now: }}
+
